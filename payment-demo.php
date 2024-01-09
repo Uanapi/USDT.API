@@ -1,6 +1,6 @@
 <?php
 
-$url = 'https://api.uanapi.com/payment.do';
+$url = 'https://*/payment.do';
 
 $data = [
   'app_id' => 'yourAppId',
